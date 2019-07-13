@@ -1,2 +1,2 @@
 # git-sparta
-hehe
+sparta is meh
